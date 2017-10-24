@@ -5,7 +5,7 @@
 - clone or download the repository
 - use the command `npm install` to install dependencies
 - then use the command `npm start` to run in `localhost:3000`
-- or `npm run build` for create a production build 
+- or `npm run build` to create a production build 
 
 #### Technologies: 
 - *React, React-Router V4*
