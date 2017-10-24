@@ -3,8 +3,8 @@
 
 #### To run this app: 
 - clone or download the repository
-- use the comand `npm install` to install dependencies
-- then use the comand `npm start` to run in `localhost:3000`
+- use the command `npm install` to install dependencies
+- then use the command `npm start` to run in `localhost:3000`
 - or `npm run build` for create a production build 
 
 #### Technologies: 
