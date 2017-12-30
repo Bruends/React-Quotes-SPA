@@ -1,6 +1,8 @@
 # React-Quotes-SPA
 :books: A simple SPA made for studies of react and react-router v4
 
+![screen shot](screenshot.png)
+
 #### To run this app: 
 - clone or download the repository
 - use the command `npm install` to install dependencies
